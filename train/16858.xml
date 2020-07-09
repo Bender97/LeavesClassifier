@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>16858.jpg</FileName>
+  <IndividualPlantId>2047</IndividualPlantId>
+  <Date>30/09/11</Date>
+  <Locality>France - Le Chesnay</Locality>
+  <GPSLocality>
+    <Longitude>2.130544</Longitude>
+    <Latitude>48.825415</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liquidambar styraciflua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Altingiaceae Horan.</Family>
+    <Genus>Liquidambar L.</Genus>
+    <Species>Liquidambar styraciflua L.</Species>
+  </Taxon>
+  <VernacularNames>American sweetgum</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>473</IndividualPlantId2012>
+  <ImageID2012>5953.jpg</ImageID2012>
+</Image>
+

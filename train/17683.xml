@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>17683.jpg</FileName>
+  <IndividualPlantId>1311</IndividualPlantId>
+  <Date>18/10/11</Date>
+  <Locality>Switzerland - Gland</Locality>
+  <GPSLocality>
+    <Longitude>6.271175</Longitude>
+    <Latitude>46.420641</Latitude>
+  </GPSLocality>
+  <Author>Loic L</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liquidambar styraciflua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Altingiaceae Horan.</Family>
+    <Genus>Liquidambar L.</Genus>
+    <Species>Liquidambar styraciflua L.</Species>
+  </Taxon>
+  <VernacularNames>American sweetgum</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>432</IndividualPlantId2012>
+  <ImageID2012>3606.jpg</ImageID2012>
+</Image>
+

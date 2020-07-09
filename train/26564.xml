@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>26564.jpg</FileName>
+  <IndividualPlantId>3787</IndividualPlantId>
+  <Date>20/10/12</Date>
+  <Locality>France - Fleury</Locality>
+  <GPSLocality>
+    <Longitude>-0.331316</Longitude>
+    <Latitude>49.201553</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fraxinus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus angustifolia Vahl</Species>
+  </Taxon>
+  <VernacularNames>Narrow leafed ash</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>
+

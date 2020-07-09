@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>14131.jpg</FileName>
+  <IndividualPlantId>3583</IndividualPlantId>
+  <Date>09/11/11</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liquidambar styraciflua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Altingiaceae Horan.</Family>
+    <Genus>Liquidambar L.</Genus>
+    <Species>Liquidambar styraciflua L.</Species>
+  </Taxon>
+  <VernacularNames>American sweetgum</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>115</IndividualPlantId2012>
+  <ImageID2012>1971.jpg</ImageID2012>
+</Image>
+

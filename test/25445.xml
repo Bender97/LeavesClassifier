@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>25445.jpg</FileName>
+  <IndividualPlantId>6048</IndividualPlantId>
+  <Date>11/03/13</Date>
+  <Locality>France - Montpellier</Locality>
+  <GPSLocality>
+    <Longitude>3.876716</Longitude>
+    <Latitude>43.610769</Latitude>
+  </GPSLocality>
+  <Author>Pierre Bonnet</Author>
+  <Organization>Inra</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Ruscus aculeatus</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Lilianae Takht.</Superorder>
+    <Order>Asparagales Link</Order>
+    <Family>Asparagaceae Juss.</Family>
+    <Genus>Ruscus L.</Genus>
+    <Species>Ruscus aculeatus L.</Species>
+  </Taxon>
+  <VernacularNames>Knee holly</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

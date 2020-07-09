@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4542.jpg</FileName>
+  <IndividualPlantId>3137</IndividualPlantId>
+  <Date>27/04/12</Date>
+  <Locality>France - Sainte-Geneviève-Des-Bois</Locality>
+  <GPSLocality>
+    <Longitude>2.326838</Longitude>
+    <Latitude>48.642943</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Liquidambar styraciflua</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Myrothamnanae Takht.</Superorder>
+    <Order>Saxifragales Bercht. &amp; J. Presl</Order>
+    <Family>Altingiaceae Horan.</Family>
+    <Genus>Liquidambar L.</Genus>
+    <Species>Liquidambar styraciflua L.</Species>
+  </Taxon>
+  <VernacularNames>American sweetgum</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>426</IndividualPlantId2012>
+  <ImageID2012>145.jpg</ImageID2012>
+</Image>
+

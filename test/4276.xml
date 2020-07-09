@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>4276.jpg</FileName>
+  <IndividualPlantId>4782</IndividualPlantId>
+  <Date>04/01/13</Date>
+  <Locality>France - Narbonne</Locality>
+  <GPSLocality>
+    <Longitude>3.003078</Longitude>
+    <Latitude>43.184277</Latitude>
+  </GPSLocality>
+  <Author>Liliane Roubaudi</Author>
+  <Organization>Tela Botanica</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Phillyrea angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Phillyrea L.</Genus>
+    <Species>Phillyrea angustifolia L.</Species>
+  </Taxon>
+  <VernacularNames>Mock privet</VernacularNames>
+  <Year>ImageCLEF2013</Year>
+</Image>

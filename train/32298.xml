@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>32298.jpg</FileName>
+  <IndividualPlantId>2645</IndividualPlantId>
+  <Date>06/09/11</Date>
+  <Locality>France - Montferrier-Sur-Lez</Locality>
+  <GPSLocality>
+    <Longitude>3.859265</Longitude>
+    <Latitude>43.671824</Latitude>
+  </GPSLocality>
+  <Author>Herve Goeau</Author>
+  <Organization>Inria</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fraxinus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus angustifolia Vahl</Species>
+  </Taxon>
+  <VernacularNames>Narrow leafed ash</VernacularNames>
+  <Year>ImageCLEF2012</Year>
+  <IndividualPlantId2012>448</IndividualPlantId2012>
+  <ImageID2012>11047.jpg</ImageID2012>
+</Image>
+

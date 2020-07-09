@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <FileName>3576.jpg</FileName>
+  <IndividualPlantId>2</IndividualPlantId>
+  <Date>07/07/10</Date>
+  <Locality>France</Locality>
+  <GPSLocality>
+    <Longitude>2.213749</Longitude>
+    <Latitude>46.227638</Latitude>
+  </GPSLocality>
+  <Author>Daniel Barthelemy</Author>
+  <Organization>Cirad</Organization>
+  <Type>SheetAsBackground</Type>
+  <Content>Leaf</Content>
+  <ClassId>Fraxinus angustifolia</ClassId>
+  <Taxon>
+    <Regnum>Plantae</Regnum>
+    <Class>Equisetopsida C. Agardh</Class>
+    <Subclass>Magnoliidae Novák ex Takht.</Subclass>
+    <Superorder>Asteranae Takht.</Superorder>
+    <Order>Lamiales Bromhead</Order>
+    <Family>Oleaceae Hoffmanns. &amp; Link</Family>
+    <Genus>Fraxinus L.</Genus>
+    <Species>Fraxinus angustifolia Vahl</Species>
+  </Taxon>
+  <VernacularNames>Narrow leafed ash</VernacularNames>
+  <Year>ImageCLEF2011</Year>
+  <IndividualPlantId2012>282</IndividualPlantId2012>
+  <ImageID2012>5046.jpg</ImageID2012>
+</Image>
+
